@@ -6,7 +6,7 @@
 *.exe
 *.o
 *.so
-!lib_*/
+!lib_*/**
 
 # Packages #
 ############
@@ -41,8 +41,6 @@ Thumbs.db
 __pycache__/
 *.py[cod]
 
-# C extensions
-*.so
 
 # Distribution / packaging
 bin/
